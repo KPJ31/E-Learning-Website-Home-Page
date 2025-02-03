@@ -9,12 +9,6 @@ A modern and stylish **landing page** built with **HTML & CSS**. This project in
 - ✅ **Login form** with social media icons
 - ✅ **Smooth transitions & hover effects**
 
-## 📸 Preview
-![Website Screenshot](link-to-screenshot) *(Replace with actual image link)*
-
-## 🚀 Live Demo
-Check out the live version here: **[Live Demo](your-live-demo-link)** *(Replace with actual deployment link if available)*
-
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3 (Flexbox, Grid, Gradients, Transitions)**  
