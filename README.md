@@ -41,5 +41,5 @@ Feel free to fork this project and enhance it! Contributions are welcome. 😊
 
 ---
 
-🔗 **Follow me on GitHub:** (https://github.com/kpj31) *(Replace with your actual GitHub profile link)*
+🔗 **Follow me on GitHub:** https://github.com/kpj31
 
