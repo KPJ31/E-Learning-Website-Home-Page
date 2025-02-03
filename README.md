@@ -26,7 +26,7 @@ A modern and stylish **landing page** built with **HTML & CSS**. This project in
 ## 📌 How to Use
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/kpj31/E-Learning-Website-Home-Page
    ```
 2. Open `index.html` in your browser  
 
